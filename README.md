@@ -1,4 +1,4 @@
-## DIGITAL COMMUNICATION RECEIVER
+## DIGITAL COMMUNICATION TRANSMITTER
 
 <p>Digital communication system is used to transport an information bearing
 signal from the source to a user destination via a communication channel.Every
